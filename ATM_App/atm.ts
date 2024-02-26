@@ -1,4 +1,4 @@
-// atm.js
+// atm.ts
 
 import inquirer from "inquirer";
 
